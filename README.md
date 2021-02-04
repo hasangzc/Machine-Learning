@@ -1,6 +1,11 @@
 # Machine-Learning
 Machine Learning Exercises
-Studies in the master branch
+Studies in the master branch.
+
+
+
+
+
 Getting the message "Sorry, something went wrong. Reload?" when viewing an * .ipynb on a GitHub blob page.
 
     Probably a problem with the GitHub notebook viewing tool - sometimes github fails to render the ipynb notebooks, I believe that is some temporary (and recurring) issue with their backend
